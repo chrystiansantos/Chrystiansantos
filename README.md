@@ -3,7 +3,7 @@
 My name is Chrystian Santos. I'm a Bachelor of Information Systems 🧑🏻‍💻.
 
 - 📍 Da terra do pão de queijo e cafezin 🧀☕️.
-- 🧑🏻‍💻 Desenvolvedor trainne [Decisão Sistemas](https://decisaosistemas.com.br).
+- 🧑🏻‍💻 Desenvolvedor júnior [Decisão Sistemas](https://decisaosistemas.com.br).
 
 ### Minhas stacks
 
