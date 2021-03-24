@@ -22,4 +22,4 @@ My name is Chrystian Santos. I'm a Bachelor of Information Systems 🧑🏻‍�
 
 ## Bora trocar uma ideia ?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-santos13)](www.linkedin.com/in/chrystian-santos13) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23891AB3?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chrystiansantos.dev/)](https://www.instagram.com/chrystiansantos.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-santos13)](https://www.linkedin.com/in/chrystian-santos13) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23891AB3?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chrystiansantos.dev/)](https://www.instagram.com/chrystiansantos.dev/)
