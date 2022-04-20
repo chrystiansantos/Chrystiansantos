@@ -3,7 +3,7 @@
 My name is Chrystian Santos. I'm a Bachelor of Information Systems 🧑🏻‍💻.
 
 - 📍 Da terra do pão de queijo e cafezin 🧀☕️.
-- 🧑🏻‍💻 Desenvolvedor júnior [iRancho](https://www.irancho.com.br/).
+- 🧑🏻‍💻 Analista desenvolvimento pleno [Central IT](https://centralit.com.br).
 
 ### Minhas stacks
 
